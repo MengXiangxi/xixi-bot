@@ -9,3 +9,6 @@ The function is too simple and straightforward: once anyone (except you yourself
 
 ## How is it implemented?
 Thanks to [itchat](https://github.com/littlecodersh/ItChat) project, WeChat APIs are provided. With this package, I can easily define an auto-reply bot within ten lines of codes. 囍！
+
+## Environment
+The script is written in Py3k, and depends on the itchat package.
