@@ -12,3 +12,5 @@ Thanks to [itchat](https://github.com/littlecodersh/ItChat) project, WeChat APIs
 
 ## Environment
 The script is written in Py3k, and depends on the itchat package.
+
+2.0 version tested on a 2011.12 version of Raspberry Pi. All versions were developed with Windows 10 or Windows XP.
